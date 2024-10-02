@@ -1,0 +1,47 @@
+.flag {
+    background-color: red;
+    width: 900px;
+    height: 600px;
+    position: relative;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+.flag>p {
+    color: azure;
+    font-size: 50px;
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    top: 50px
+}
+
+.strip {
+    background-color: darkblue;
+    height: 250px;
+    position: relative;
+    top: 55px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.circle {
+    background-color: azure;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    left: 350px;
+    top: 20px
+}
+
+.circle>p {
+    color: black;
+    font-size: 70px;
+    text-align: center;
+    position: relative;
+    top: 18px
+}
